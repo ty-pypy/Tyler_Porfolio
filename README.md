@@ -13,3 +13,4 @@ Issues to improve:
 Next Iteration Goals:
 * Add JavaScript for API calls
 * Fix aforementioned errors
+* Favicon
